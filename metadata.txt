@@ -1,0 +1,9 @@
+[general]
+name=PackageInstaller
+qgisMinimumVersion=3.0
+description=Install any python package avialble on pip 
+about=Install any desired python package from QGIS GUI 
+version=1.0.0
+author=Maor Yatskan 
+email=mymaor89@gmail.com
+repository=http://www.github.com/mymaor89
